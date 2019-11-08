@@ -1,0 +1,104 @@
+#adin {
+	transition: 1s all;
+	color:#1C75C3;
+	font-size: 50px;
+	background-color: cyan;
+	border: 4px solid #1C75C3;
+	margin: 200px;
+	border-radius:20px;
+	font-family: impact,arial
+	
+
+}
+
+#adin:hover {
+	
+	color: cyan;
+	font-size: 45px;
+	background-color: #1C75C3;
+	border: 2.5px solid cyan;
+	margin: 240px;
+	border-radius:10px;
+	
+}
+
+
+
+#dva {
+
+	transition: 0.7s all;
+	color:black;
+	font-size: 20px;
+	
+
+	
+}
+
+#dva:hover {
+
+	
+	color:#B9BC18;
+	font-size: 25px;
+
+}
+#tri{
+	transition: 0.7s all;
+	color:black;
+	font-size: 20px;
+}
+#tri:hover{
+	color:#60AC1E;
+	font-size: 25px;
+}
+#cetire{
+	transition: 0.7s all;
+	color:black;
+	font-size: 20px;
+}
+#cetire:hover{
+	color:#1A6A4A;
+	font-size: 25px;
+}
+#pyat{
+	transition: 0.7s all;
+	color:black;
+	font-size: 20px;
+}
+
+#pyat:hover{
+	color:#6800FD;
+	font-size: 25px;
+	}
+
+#shest{
+	transition: 0.7s all;
+	color:black;
+	font-size: 20px;
+}
+#shest:hover{
+	color:#FD0099;
+	font-size: 25px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
